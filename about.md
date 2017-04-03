@@ -8,6 +8,7 @@ layout: page
 <p>  现居住于北京 负责iOS开发的工作 毕业于秦皇岛东北大学</p>
 <h3>追求</h3>
 <p>编程与艺术的完美结合</p>
+<h3>喜欢</h3>
 <ul>
 	<li>Objective-C稳定与健壮</li>
 	<li>Swift的干净与新意</li>
