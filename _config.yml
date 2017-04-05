@@ -74,10 +74,10 @@ width: large
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-# if you don't need projects, comment the *projects* configs below
-projects: true
+#配置 界面是否需要显示
+#projects: true
 app: true
-# if you don't need "about" or "blog", comment them out below
+skills: true
 about: true
 blog: true
 
