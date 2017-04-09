@@ -4,10 +4,18 @@
 layout: page
 title: Blog
 ---
+
+
+
 <section class="list">
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
+        <div class="blog_header">
+            <h1>
+                <span>最近的文章</span>
+            </h1>
+        </div>
 		{% for post in paginator.posts %}
 			{% if post.category == 'blog' %}
 				{% include blog-post.html %}

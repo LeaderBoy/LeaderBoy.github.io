@@ -71,8 +71,9 @@ authors:
 width: large
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 2
+paginate_path: "blog/:num/"
+
 
 #配置 界面是否需要显示
 #projects: true
@@ -105,6 +106,7 @@ animation: true
 gems:
   - jekyll-seo-tag
   - jekyll-gist
+  - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://github.com

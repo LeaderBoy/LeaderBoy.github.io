@@ -2,6 +2,8 @@
 layout: page
 title: Skills
 ---
+
+
 <!--{% include header.html %}-->
 
 
@@ -77,6 +79,37 @@ title: Skills
     <div class="empty"></div>
     <p>A Grunt plugin for running server-side Mocha tests.</p>
 </div>
+{% endhighlight %}
+            </div>
+
+            <div class="skills_body--description">
+                <h3>Grunt Mocha CLI
+                </h3>
+                <div class="empty"></div>
+                <p>A Grunt plugin for running server-side Mocha tests.</p>
+            </div>
+        </div>
+
+
+        <div class="skills_body--section">
+            <div class="skills_body--code">
+{% highlight swift %}
+extension CommentViewController : UIScrollViewDelegate {
+    //布局tableView
+    override func viewDidLayoutSubviews() {
+    super.viewDidLayoutSubviews()
+    tableView.frame = self.view.bounds
+    tableView.frame.size.height -= 50
+    }
+
+    func scrollViewWillBeginDragging(_ scrollView: UIScrollView) {
+    if (self.inputBar.inputView?.isFirstResponder)! {
+    self.inputBar.inputView?.resignFirstResponder()
+    self.tableView.reloadData()
+    }
+  }
+
+}
 {% endhighlight %}
             </div>
 
