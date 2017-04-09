@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="084f6a09-4b9e-4a81-b527-91a28cea3336" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pagination.html" afterPath="$PROJECT_DIR$/_includes/pagination.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/app/app.sass" afterPath="$PROJECT_DIR$/_sass/app/app.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/base/variables.sass" afterPath="$PROJECT_DIR$/_sass/base/variables.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/components/pagination.sass" afterPath="$PROJECT_DIR$/_sass/components/pagination.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
-    </list>
+    <list default="true" id="084f6a09-4b9e-4a81-b527-91a28cea3336" name="Default" comment="" />
     <ignored path="LeaderBoy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -335,12 +327,12 @@
       <workItem from="1491231886776" duration="40193000" />
       <workItem from="1491401738667" duration="6437000" />
       <workItem from="1491530155577" duration="7740000" />
-      <workItem from="1491702343043" duration="17343000" />
+      <workItem from="1491702343043" duration="17381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79108000" />
+    <option name="totallyTimeSpent" value="79146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="27" width="1498" height="873" extended-state="0" />
