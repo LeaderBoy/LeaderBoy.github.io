@@ -1,6 +1,7 @@
-<div class="item {% if post.star %}star{% endif %}">
-    <a class="url" href="{{ site.url }}{{ post.url }}">
-        <aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+<div class="blog_body--container {% if post.star %}star{% endif %}">
+    <a href="{{ site.url }}{{ post.url }}">
         {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
+        <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+        <p>文章的描述多好哇UI很短我会读好哇发我的我 大我的哇的哇 的哇的 哇的哇的我啊的哇 的哇 的哇 啊我发而是发额是发而是发而是发额文章的描述多好哇UI很短我会读好哇发我的我 大我的哇的哇 的哇的 哇的哇的我啊的哇 的哇 的哇 啊我发而是发额是发而是发而是发额</p>
     </a>
 </div>
