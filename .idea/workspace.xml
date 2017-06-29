@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="084f6a09-4b9e-4a81-b527-91a28cea3336" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-114x114.png" afterPath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-114x114.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-120x120.png" afterPath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-120x120.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-144x144.png" afterPath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-152x152.png" afterPath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-152x152.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-57x57.png" afterPath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-57x57.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-60x60.png" afterPath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-60x60.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-72x72.png" afterPath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-72x72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-76x76.png" afterPath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-76x76.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/favicon-128.png" afterPath="$PROJECT_DIR$/assets/images/favicon/favicon-128.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/favicon-16x16.png" afterPath="$PROJECT_DIR$/assets/images/favicon/favicon-16x16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/favicon-196x196.png" afterPath="$PROJECT_DIR$/assets/images/favicon/favicon-196x196.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/favicon-32x32.png" afterPath="$PROJECT_DIR$/assets/images/favicon/favicon-32x32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/favicon-96x96.png" afterPath="$PROJECT_DIR$/assets/images/favicon/favicon-96x96.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/favicon.ico" afterPath="$PROJECT_DIR$/assets/images/favicon/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/mstile-144x144.png" afterPath="$PROJECT_DIR$/assets/images/favicon/mstile-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/mstile-150x150.png" afterPath="$PROJECT_DIR$/assets/images/favicon/mstile-150x150.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/mstile-310x150.png" afterPath="$PROJECT_DIR$/assets/images/favicon/mstile-310x150.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/mstile-310x310.png" afterPath="$PROJECT_DIR$/assets/images/favicon/mstile-310x310.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon/mstile-70x70.png" afterPath="$PROJECT_DIR$/assets/images/favicon/mstile-70x70.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skills.html" afterPath="$PROJECT_DIR$/skills.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pagination.html" afterPath="$PROJECT_DIR$/_includes/pagination.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
     </list>
     <ignored path="LeaderBoy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,20 +46,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/app/app.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skills.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="skills.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skills.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="0">
               <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
               <folding>
                 <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="false" />
@@ -49,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <file leaf-file-name="_theme.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/theme/_theme.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="1752">
+              <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -62,9 +72,45 @@
       <file leaf-file-name="pagination.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/pagination.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+            <state relative-caret-position="384">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="avatar.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/avatar.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jekyll-logo-light-solid.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/jekyll-logo-light-solid.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="markdown.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/markdown.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4419">
+              <caret line="0" column="3399" selection-start-line="0" selection-start-column="22020" selection-end-line="0" selection-end-column="22024" />
+              <folding>
+                <element signature="e#65360#65368#0" expanded="true" />
+                <element signature="e#65368#65376#0" expanded="true" />
+                <element signature="e#65376#65384#0" expanded="true" />
+                <element signature="e#65384#65392#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,13 +187,14 @@
         <option value="$PROJECT_DIR$/_sass/app/app.sass" />
         <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/_sass/components/pagination.sass" />
-        <option value="$PROJECT_DIR$/_includes/pagination.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/app.html" />
         <option value="$PROJECT_DIR$/_includes/style.scss" />
         <option value="$PROJECT_DIR$/js/theme.js" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/skills.html" />
+        <option value="$PROJECT_DIR$/_includes/pagination.html" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
       </list>
     </option>
   </component>
@@ -158,6 +205,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="187" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
@@ -215,42 +263,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeaderBoy.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeaderBoy.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeaderBoy.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LeaderBoy.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
+              <option name="myItemId" value="_site" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,15 +365,17 @@
       <workItem from="1491401738667" duration="6437000" />
       <workItem from="1491530155577" duration="7740000" />
       <workItem from="1491702343043" duration="17680000" />
-      <workItem from="1491787195238" duration="1790000" />
+      <workItem from="1491787195238" duration="1964000" />
+      <workItem from="1493200355884" duration="29000" />
+      <workItem from="1498699133973" duration="738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81235000" />
+    <option name="totallyTimeSpent" value="82176000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="187" y="23" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21705426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -408,12 +430,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_sass/variable/variables.scss" />
-    <entry file="file://$PROJECT_DIR$/_sass/variable/_variables.scss" />
-    <entry file="file://$PROJECT_DIR$/_sass/variable/var.scss" />
-    <entry file="file://$PROJECT_DIR$/_sass/skills/_include-media.scss" />
-    <entry file="file://$PROJECT_DIR$/_sass/skills/_include-media.sass" />
-    <entry file="file://$PROJECT_DIR$/_sass/variable/var.sass" />
     <entry file="file://$PROJECT_DIR$/_sass/skills/include-media.sass" />
     <entry file="file://$PROJECT_DIR$/assets/images/skills/css.svg" />
     <entry file="file://$PROJECT_DIR$/_config-dev.yml">
@@ -448,7 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1107">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -463,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3888">
           <caret line="351" column="19" selection-start-line="351" selection-start-column="15" selection-end-line="351" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -478,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -536,7 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -552,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9153">
           <caret line="569" column="0" selection-start-line="569" selection-start-column="0" selection-end-line="569" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,7 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -614,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-819">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,15 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/theme/_theme.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,13 +662,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/app/app.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
+        <state relative-caret-position="1512">
           <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding />
         </state>
@@ -683,15 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/pagination.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,11 +706,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="0">
           <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding>
             <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/theme/_theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1752">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/pagination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/avatar.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/jekyll-logo-light-solid.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-57x57.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-60x60.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/markdown.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4419">
+          <caret line="0" column="3399" selection-start-line="0" selection-start-column="22020" selection-end-line="0" selection-end-column="22024" />
+          <folding>
+            <element signature="e#65360#65368#0" expanded="true" />
+            <element signature="e#65368#65376#0" expanded="true" />
+            <element signature="e#65376#65384#0" expanded="true" />
+            <element signature="e#65384#65392#0" expanded="true" />
           </folding>
         </state>
       </provider>

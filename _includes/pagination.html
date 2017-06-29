@@ -3,7 +3,7 @@
     {% if paginator.previous_page %}
         <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">« Pre</a>
     {% else %}
-        <span class="previous hidden">« Pre</span>
+        <span class="previous hidden">« 上一页</span>
     {% endif %}
 
     <span class="page_number ">{{ paginator.page }} in {{ paginator.total_pages }}</span>
@@ -11,6 +11,6 @@
     {% if paginator.next_page %}
         <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">Next »</a>
     {% else %}
-        <span class="next hidden">Next »</span>
+        <span class="next hidden">下一页 »</span>
     {% endif %}
 </div>
