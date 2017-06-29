@@ -12,16 +12,21 @@
     background-color: rgb(87,172,165)
     text-align: center
     border-radius: 5px
+    width: 100%
     .headerStyle
         color: white
         padding-top: 20px
-        font-size: 48px
+        font-size: 35px
         text-shadow: 0 0.032em 0 #b0b0b0, 0 0.15em 0.11em rgba(0,0,0,.15), 0 0.25em 0.021em rgba(0,0,0,.1), 0 0.32em 0.32em rgba(0,0,0,.1)
         font-family: "Amethysta","Alice","Amiri","Arapey"
         font-style: italic
         font-weight: normal
-//---------------------
 
+//---------------------
+//视频的样式
+.videoStyle
+    width: 100%
+    height: 200px
 
 //整个body 的container
 .row_container
@@ -32,19 +37,23 @@
 
 //每个行的容器
 .row
-    margin: 48px 10%
+    margin: 48px 5%
+    @media #{$mobile}
+        margin: 10px 2%
 
 //文字的容器
 .text_container--left
     float: left
-    width: 58%
+    width: 55%
 //图片的容器
 .text_container--right
     float: right
-    width: 58%
+    width: 55%
+    @media #{$mobile}
+
 
 .image_container--left
-    float: right
+    float: left
     width: 42%
 
 .image_container--right
@@ -54,23 +63,36 @@
 //    特性文字
 .feature_heading
     font-weight: 300
-    line-height: 1
+    line-height: 0.5
     letter-spacing: -.05rem
     margin-bottom: 1rem
-    font-size: 4rem
+    font-size: 3rem
     margin-top: 3.5rem
     color: rgb(89,89,89)
-    font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif
+    font-family: "PingFang SC", "Lantinghei SC", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans
+
+    //font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif
+    @media #{$mobile}
+        font-size: 1.5rem
+        font-weight: 300
+        margin-top: 2rem
+
+
 
 
 
 //    特性描述
 .feature_text
     font-weight: 300
-    font-size: 2rem
-    color: rgb(109,118,125)
-    letter-spacing: normal
-    font-family: Baskerville, "Times New Roman", "Liberation Serif", STFangsong, FangSong, FangSong_GB2312, CWTEX-F, serif
-
+    font-size: 16px
+    color: #333333
+    letter-spacing: -.05rem
+    line-height: 29px
+    font-style: normal
+    //letter-spacing: normal
+    font-family: "PingFang SC", "Lantinghei SC", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans
+    //font-family: Baskerville, "Times New Roman", "Liberation Serif", STFangsong, FangSong, FangSong_GB2312, CWTEX-F, serif
+    @media #{$mobile}
+        font-size: 1.2rem
 
 //---------------------
