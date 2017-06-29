@@ -7,6 +7,8 @@
     height: 300px
     width: 100%
     border-radius: 5px
+    @media #{$mobile}
+        height: 200px
 
 
 .skills_headLine
@@ -23,18 +25,27 @@
     flex-direction: row
     margin-top: 50px
     -webkit-padding-start: 0px
+    @media #{$mobile}
+        font-size: 17px
     .listDiv
         text-align: center
         width: 100px
+        @media #{$mobile}
+            width: 40px
         >img
             width: 50px
         > p
             overflow: hidden
             white-space: nowrap
             text-overflow: ellipsis
+            @media #{$mobile}
+                font-size: 10px
         .icon_logo
             width: 60px
             height: 60px
+            @media #{$mobile}
+                width: 30px
+                height: 30px
 
 .skills_body--header
     text-align: center
@@ -47,12 +58,16 @@
         font-weight: 300
         line-height: 1.4
         letter-spacing: .1em
+        @media #{$mobile}
 
 .skills_body--section
     display: flex
     flex-direction: row
     padding: 40px 0
     align-items: center
+    @media #{$mobile}
+        flex-direction: column
+        padding: 5px 0
 
 
 .skills_body--code
@@ -61,12 +76,17 @@
     margin-right: 40px
     flex: 1
     width: 58%
+    @media #{$mobile}
+        width: 100%
+        margin-right: 0
 .skills_body--description
     flex: 1
     //float: right
     width: 100%
     max-width: 460px
     margin: 0
+    @media #{$mobile}
+        margin: 5px
     >h3
         margin-bottom: 15px
         font-size: 24px
@@ -78,6 +98,7 @@
     .empty
         margin-bottom: 20px
         font-size: 0
+
 
 
 
