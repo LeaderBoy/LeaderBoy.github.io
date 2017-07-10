@@ -20,6 +20,14 @@ layout: compress
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
     <!--<link rel="stylesheet" href="/_sass/app/typo.css">-->
     <!--<link rel="stylesheet" href="/_sass/base/pygments.css">-->
+    <!--高亮代码-->
+    <link rel="stylesheet" href="../js/xcode.css">
+    <script src="../js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <!--<link href="http://cdn.bootcss.com/highlight.js/8.0/styles/monokai_sublime.min.css" rel="stylesheet">-->
+    <!--<script src="http://cdn.bootcss.com/highlight.js/8.0/highlight.min.js"></script>-->
+    <!--<script >hljs.initHighlightingOnLoad();</script>-->
+    <!--<link rel="stylesheet" href="../_includes/xcode.css">-->
 
     <style>
         {% capture scss_sheet %}{% include style.scss %}{% endcapture %}

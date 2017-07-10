@@ -195,3 +195,64 @@ Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste o
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
 [6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+
+
+
+##测试
+
+
+```objectivec
+[manager POST:OUTSIDEINIT parameters:dic success:^(NSURLSessionDataTask *task, id responseObject) {
+    MapModel *model = [[MapModel alloc]initWith:responseObject];
+    if (model.resultcode == 200) {
+        NSArray *resultArray = model.resultArray;
+        self.resultArray = model.resultArray;
+        for (NSDictionary *locationD in resultArray) {
+            [self.personArray addObject:locationD[@"xmmc"]];
+        }
+    }
+    [weakSelf.tableView reloadData];
+} failure:^(NSURLSessionDataTask *task, NSError *error) {
+    NSLog(@"请求失败");
+}];
+```
+
+{% highlight objectivec %}
+[manager POST:OUTSIDEINIT parameters:dic success:^(NSURLSessionDataTask *task, id responseObject) {
+    MapModel *model = [[MapModel alloc]initWith:responseObject];
+    if (model.resultcode == 200) {
+        NSArray *resultArray = model.resultArray;
+        self.resultArray = model.resultArray;
+        for (NSDictionary *locationD in resultArray) {
+            [self.personArray addObject:locationD[@"xmmc"]];
+        }
+    }
+    [weakSelf.tableView reloadData];
+} failure:^(NSURLSessionDataTask *task, NSError *error) {
+    NSLog(@"请求失败");
+}];
+{% endhighlight %}
+
+
+{% highlight objectivec %}
+-(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+    
+    if ([self isOutsideSign]) {
+        if (section == 0) {
+            return 1;
+        }
+    }else {
+        if (section == 0) {
+            return 2;
+        }
+    }
+
+    if(section == 1){
+        return 1;
+    }else if(section == 2){
+        return 1;
+    }else{
+        return 1;
+    }
+}
+{% endhighlight %}

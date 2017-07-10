@@ -97,7 +97,7 @@ post-advance-links: [blog]
 # show author block at the end of a post ?
 show-author: false
 
-highlighter: pygments
+highlighter: Highlight
 #pygments: true
 
 # do you want some animations?
