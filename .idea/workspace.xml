@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="084f6a09-4b9e-4a81-b527-91a28cea3336" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/base/_global.scss" afterPath="$PROJECT_DIR$/_sass/base/_global.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/base/general.sass" afterPath="$PROJECT_DIR$/_sass/base/general.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components测试3.markdown" afterPath="$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components测试3.markdown" />
     </list>
     <ignored path="LeaderBoy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="general.sass" pinned="false" current-in-tab="true">
+      <file leaf-file-name="general.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/base/general.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -107,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-02-24-markdown-extra-components测试3.markdown" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2015-02-24-markdown-extra-components测试3.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components测试3.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4824">
-              <caret line="201" column="0" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+            <state relative-caret-position="-837">
+              <caret line="208" column="1" selection-start-line="208" selection-start-column="1" selection-end-line="208" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -186,11 +184,11 @@
         <option value="$PROJECT_DIR$/_sass/app/xcode.sass" />
         <option value="$PROJECT_DIR$/_includes/style.scss" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components测试3.markdown" />
         <option value="$PROJECT_DIR$/_sass/app/xcode.css" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_sass/base/_global.scss" />
         <option value="$PROJECT_DIR$/_sass/base/general.sass" />
+        <option value="$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components测试3.markdown" />
       </list>
     </option>
   </component>
@@ -439,12 +437,12 @@
       <workItem from="1493200355884" duration="29000" />
       <workItem from="1498699133973" duration="8877000" />
       <workItem from="1499673872126" duration="5655000" />
-      <workItem from="1499735760730" duration="83000" />
+      <workItem from="1499735760730" duration="318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96053000" />
+    <option name="totallyTimeSpent" value="96288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -802,14 +800,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components测试3.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4824">
-          <caret line="201" column="0" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
@@ -847,6 +837,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="108" column="11" selection-start-line="108" selection-start-column="11" selection-end-line="108" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components测试3.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-837">
+          <caret line="208" column="1" selection-start-line="208" selection-start-column="1" selection-end-line="208" selection-end-column="1" />
           <folding />
         </state>
       </provider>
