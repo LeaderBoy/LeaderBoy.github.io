@@ -1,6 +1,6 @@
 # main text of home
-name: 杨志远
-bio:  帅不重要,关键要帅的明显---An iOS developer
+name: LeaderBoy
+bio:  打造优秀的产品,成就优秀的你.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -53,8 +53,8 @@ email: BaQiWL@gmail.com
 
 authors:
     johndoe:
-        name: 杨志远
-        bio: 帅不重要,关键要帅的明显
+        name: LeaderBoy
+        bio: 打造优秀的产品,成就优秀的你.
         external-image: false
         picture: assets/images/avatar.jpg
         twitter: johndoe
@@ -97,7 +97,7 @@ post-advance-links: [blog]
 # show author block at the end of a post ?
 show-author: false
 
-highlighter: Highlight
+highlighter: pygments
 #pygments: true
 
 # do you want some animations?
