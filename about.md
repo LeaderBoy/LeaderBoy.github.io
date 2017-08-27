@@ -16,7 +16,7 @@ layout: page
 </ul>
 
 <h3>个人项目</h3>
-<p>是一款....的app</p>
+<p>TwoMinsCode是一款专注于推送开发技巧的app</p>
 <p></p>
 
 <h2>技能</h2>
